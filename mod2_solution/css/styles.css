@@ -30,13 +30,16 @@ section.content{
 }
 #section-title-1{
     background-color: #D59898;
+    font-weight: bold;
 }
 #section-title-2{
     background-color: #C14543;
+    font-weight: bold;
     color:#ffffff;
 }
 #section-title-3{
     background-color: #E5D198;
+    font-weight: bold;
 }
 .content > p{
     clear: right;
