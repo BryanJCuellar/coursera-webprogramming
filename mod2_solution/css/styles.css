@@ -23,6 +23,7 @@ section.content{
     width:30%;
     padding: 3px;
     font-size: 125%;
+    font-weight: bold;
     text-align: center;
     border-left: 2px solid black;
     border-bottom: 2px solid black;
@@ -30,16 +31,13 @@ section.content{
 }
 #section-title-1{
     background-color: #D59898;
-    font-weight: bold;
 }
 #section-title-2{
     background-color: #C14543;
-    font-weight: bold;
     color:#ffffff;
 }
 #section-title-3{
     background-color: #E5D198;
-    font-weight: bold;
 }
 .content > p{
     clear: right;
